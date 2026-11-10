@@ -1,0 +1,10 @@
+*.log
+*.db
+*.db-*
+.env
+.env.*
+sunshine.conf
+sunshine_state.json
+*.pem
+*.key
+*.bak*
