@@ -1,6 +1,6 @@
 # Wallpaper Engine × Sunshine 联动
 
-公开归档。串流开始时播放动态壁纸，串流结束时暂停。当前方案不要求 Wallpaper Engine 常驻：
+Sunshine 串流开始时播放 Wallpaper Engine 动态壁纸，结束时暂停。当前方案不要求 WE 常驻：
 WE 开着就联动，关着就安静跳过，不影响串流启动。
 
 ## 当前方案：条件执行的 global_prep_cmd
